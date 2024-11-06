@@ -1,4 +1,4 @@
-The First Section contains the Title and a Hamburger Icon to navigate to different sections of the page.
+The First Part contains the Title and a Hamburger Icon to navigate to different sections of the page.
 Section 1: A Promo Video
 Section 2: Our Team and About Us
 Section 3: Marine Life Tracker and Recent Insights
