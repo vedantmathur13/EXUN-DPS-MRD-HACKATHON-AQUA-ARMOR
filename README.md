@@ -5,3 +5,4 @@ Section 3: Marine Life Tracker and Recent Insights
 Section 4: Our Solution No. 1, i.e, The Tidal Surge
 Section 5: Our Solution No. 2, i.e, The Tidal Lens
 Section 6: Contact Us Form(Under Dev) and our Social Handles(Currently Fictitious)
+On the First Run, the Promo Video starts working after reloading for a few times or reloading after a few minutes.
